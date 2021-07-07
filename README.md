@@ -1,6 +1,6 @@
 ### Hello there, I'm Mosart  ✌️👋
 
-## I'm a programming junkie!
+## I'm a programming addicted!
 
 - 🎒 I’m currently learning about flutter everything 🤩
 - 👯 I'm trying to improve myself by making the best apps 
