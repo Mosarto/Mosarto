@@ -23,7 +23,7 @@
 
 ### GitHub Stats:
 
-[![Mosart GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosarto)](https://github.com/mosarto/github-readme-stats)
+[![Mosart GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosarto&theme=dark&show_icons=true)](https://github.com/mosarto/github-readme-stats)
 
 <br />
 
