@@ -38,9 +38,8 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  <br />
 <!--START_SECTION:activity-->
-1. ☀️ Weather APP in [Mosarto/weatherapp/](https://github.com/Mosarto/weatherapp/)
+  1. ☀️ Weather APP in [Mosarto/weatherapp/](https://github.com/Mosarto/weatherapp/)
 <!--END_SECTION:activity-->
 
 </details>
