@@ -36,7 +36,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mosarto's GitHub Stats" src="https://github-readme-stats.Mosarto.vercel.app/api?username=Mosarto&show_icons=true&hide_border=true" />
+  [![Mosart GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosarto)](https://github.com/mosarto/github-readme-stats)
 
 </details>
 
