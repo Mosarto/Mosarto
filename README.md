@@ -20,6 +20,11 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
+
+### GitHub Stats:
+
+[![Mosart GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosarto)](https://github.com/mosarto/github-readme-stats)
+
 <br />
 
 ---
@@ -30,13 +35,6 @@
 <!--START_SECTION:activity-->
 1. ☀️ Weather APP in [Mosarto/weatherapp/](https://github.com/Mosarto/weatherapp/)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  [![Mosart GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosarto)](https://github.com/mosarto/github-readme-stats)
 
 </details>
 
