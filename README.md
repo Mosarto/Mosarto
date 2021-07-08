@@ -33,6 +33,8 @@
 
 [![Mosart GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosarto&theme=dark&show_icons=true)](https://github.com/mosarto/github-readme-stats)
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+
 <br />
 
 ---
