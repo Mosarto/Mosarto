@@ -44,7 +44,7 @@
   
 <!--START_SECTION:activity-->
 1. ☀️ Weather App in [Mosarto/weatherapp/](https://github.com/Mosarto/weatherapp/)
-2. 💼 Omie App in [Mosarto/weatherapp/](https://github.com/Mosarto/omie/)
+2. 💼 Omie App in [Mosarto/omie/](https://github.com/Mosarto/omie/)
 <!--END_SECTION:activity-->
 
 </details>
