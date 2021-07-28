@@ -48,6 +48,7 @@
 3. 🌴 Travel App in [Mosarto/travelapp](https://github.com/Mosarto/travelapp/)
 4. 🎶 Music Player App in [Mosarto/musicplayerapp](https://github.com/Mosarto/musicplayerapp/)
 5. 🤑 Payment App in [Mosarto/paymentapp](https://github.com/Mosarto/paymentapp/)
+6. 💲 Mobile Wallet App in [Mosarto/mobilewallet](https://github.com/Mosarto/mobilewallet/)
 <!--END_SECTION:activity-->
 
 </details>
