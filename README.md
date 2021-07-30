@@ -30,11 +30,11 @@
 <br />
 
 ### GitHub Stats:
-
-[![Mosarto GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosarto&theme=dark&show_icons=true)](https://github.com/mosarto/github-readme-stats)
-
-[![Mosartp=o](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosarto&hide=html&layout=compact&theme=dark)](https://github.com/mosarto/)
-
+<div>
+  <a href="https://github.com/Mosarto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mosarto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosarto&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <br />
 
 ---
