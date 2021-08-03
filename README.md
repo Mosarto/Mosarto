@@ -39,7 +39,7 @@
 ---
 
   <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: My Projects </summary>
   
 <!--START_SECTION:activity-->
 1. ☀️ Weather App in [Mosarto/weatherapp](https://github.com/Mosarto/weatherapp/)
@@ -48,6 +48,7 @@
 4. 🎶 Music Player App in [Mosarto/musicplayerapp](https://github.com/Mosarto/musicplayerapp/)
 5. 🤑 Payment App in [Mosarto/paymentapp](https://github.com/Mosarto/paymentapp/)
 6. 💲 Mobile Wallet App in [Mosarto/mobilewallet](https://github.com/Mosarto/mobilewallet/)
+6. ₿ E-Wallet App in [Mosarto/e-wallet](https://github.com/Mosarto/e-wallet/)
 <!--END_SECTION:activity-->
 
 </details>
