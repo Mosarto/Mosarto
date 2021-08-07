@@ -48,7 +48,8 @@
 4. 🎶 Music Player App in [Mosarto/musicplayerapp](https://github.com/Mosarto/musicplayerapp/)
 5. 🤑 Payment App in [Mosarto/paymentapp](https://github.com/Mosarto/paymentapp/)
 6. 💲 Mobile Wallet App in [Mosarto/mobilewallet](https://github.com/Mosarto/mobilewallet/)
-6. ₿ E-Wallet App in [Mosarto/e-wallet](https://github.com/Mosarto/e-wallet/)
+7. ₿ E-Wallet App in [Mosarto/e-wallet](https://github.com/Mosarto/e-wallet/)
+8. 💪 Gyme Web in [Mosarto/gyme](https://github.com/Mosarto/gyme/)
 <!--END_SECTION:activity-->
 
 </details>
