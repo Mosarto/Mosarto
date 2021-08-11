@@ -50,7 +50,7 @@
 6. 💲 Mobile Wallet App in [Mosarto/mobilewallet](https://github.com/Mosarto/mobilewallet/)
 7. ₿ E-Wallet App in [Mosarto/e-wallet](https://github.com/Mosarto/e-wallet/)
 8. 💪 Gyme Web in [Mosarto/gyme](https://github.com/Mosarto/gyme/)
-9. 🍿 Streaming App in [Mosarto/streaming](https://github.com/Mosarto/streaming/)
+9. 🍿 Streaming App in [Mosarto/streamingapp](https://github.com/Mosarto/streamingapp/)
 <!--END_SECTION:activity-->
 
 </details>
