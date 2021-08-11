@@ -38,7 +38,7 @@
 
 ---
 
-## My Projects:
+## 🎒 My Projects 🎒:
 
  - ☀️ Weather App in [Mosarto/weatherapp](https://github.com/Mosarto/weatherapp/)
  - 💼 Omie App in [Mosarto/omie](https://github.com/Mosarto/omie/)
