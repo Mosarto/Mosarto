@@ -38,6 +38,8 @@
 
 ---
 
+<br />
+
 ## 🎒 My Projects 🎒:
 
  - ☀️ Weather App in [Mosarto/weatherapp](https://github.com/Mosarto/weatherapp/)
