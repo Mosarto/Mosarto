@@ -38,22 +38,17 @@
 
 ---
 
-  <details>
-  <summary>:zap: My Projects </summary>
-  
-<!--START_SECTION:activity-->
-1. ☀️ Weather App in [Mosarto/weatherapp](https://github.com/Mosarto/weatherapp/)
-2. 💼 Omie App in [Mosarto/omie](https://github.com/Mosarto/omie/)
-3. 🌴 Travel App in [Mosarto/travelapp](https://github.com/Mosarto/travelapp/)
-4. 🎶 Music Player App in [Mosarto/musicplayerapp](https://github.com/Mosarto/musicplayerapp/)
-5. 🤑 Payment App in [Mosarto/paymentapp](https://github.com/Mosarto/paymentapp/)
-6. 💲 Mobile Wallet App in [Mosarto/mobilewallet](https://github.com/Mosarto/mobilewallet/)
-7. ₿ E-Wallet App in [Mosarto/e-wallet](https://github.com/Mosarto/e-wallet/)
-8. 💪 Gyme Web in [Mosarto/gyme](https://github.com/Mosarto/gyme/)
-9. 🍿 Streaming App in [Mosarto/streamingapp](https://github.com/Mosarto/streamingapp/)
-<!--END_SECTION:activity-->
+## My Projects:
 
-</details>
+ - ☀️ Weather App in [Mosarto/weatherapp](https://github.com/Mosarto/weatherapp/)
+ - 💼 Omie App in [Mosarto/omie](https://github.com/Mosarto/omie/)
+ - 🌴 Travel App in [Mosarto/travelapp](https://github.com/Mosarto/travelapp/)
+ - 🎶 Music Player App in [Mosarto/musicplayerapp](https://github.com/Mosarto/musicplayerapp/)
+ - 🤑 Payment App in [Mosarto/paymentapp](https://github.com/Mosarto/paymentapp/)
+ - 💲 Mobile Wallet App in [Mosarto/mobilewallet](https://github.com/Mosarto/mobilewallet/)
+ - ₿ E-Wallet App in [Mosarto/e-wallet](https://github.com/Mosarto/e-wallet/)
+ - 💪 Gyme Web in [Mosarto/gyme](https://github.com/Mosarto/gyme/)
+ - 🍿 Streaming App in [Mosarto/streamingapp](https://github.com/Mosarto/streamingapp/)
 
 [instagram]: https://www.instagram.com/lucas_mosart/
 [linkedin]: https://www.linkedin.com/in/lucas-oliveira-336566197/
