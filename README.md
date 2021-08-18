@@ -50,6 +50,7 @@
  - ₿ E-Wallet App in [Mosarto/e-wallet](https://github.com/Mosarto/e-wallet/)
  - 💪 Gyme Web in [Mosarto/gyme](https://github.com/Mosarto/gyme/)
  - 🍿 Streaming App in [Mosarto/streamingapp](https://github.com/Mosarto/streamingapp/)
+ - 😴 Sleep Sounds App in [Mosarto/sleepsoundsapp](https://github.com/Mosarto/sleepsoundsapp/)
 
 <br />
 
