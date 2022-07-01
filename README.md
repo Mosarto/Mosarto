@@ -47,7 +47,7 @@
  - 🎶 Music Player App in [Mosarto/musicplayerapp](https://github.com/Mosarto/musicplayerapp/)
  - 🤑 Payment App in [Mosarto/paymentapp](https://github.com/Mosarto/paymentapp/)
  - 💲 Mobile Wallet App in [Mosarto/mobilewallet](https://github.com/Mosarto/mobilewallet/)
- - ₿ E-Wallet App in [Mosarto/e-wallet](https://github.com/Mosarto/e-wallet/)
+ - 🪙 E-Wallet App in [Mosarto/e-wallet](https://github.com/Mosarto/e-wallet/)
  - 💪 Gyme Web in [Mosarto/gyme](https://github.com/Mosarto/gyme/)
  - 🍿 Streaming App in [Mosarto/streamingapp](https://github.com/Mosarto/streamingapp/)
  - 😴 Sleep Sounds App in [Mosarto/sleepsoundsapp](https://github.com/Mosarto/sleepsoundsapp/)
