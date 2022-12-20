@@ -51,6 +51,7 @@
  - 💪 Gyme Web in [Mosarto/gyme](https://github.com/Mosarto/gyme/)
  - 🍿 Streaming App in [Mosarto/streamingapp](https://github.com/Mosarto/streamingapp/)
  - 😴 Sleep Sounds App in [Mosarto/sleepsoundsapp](https://github.com/Mosarto/sleepsoundsapp/)
+ - ✏️ Sticky Note App in [Mosarto/stickynotes](https://github.com/Mosarto/stickynotes/)
 
 <br />
 
