@@ -3,7 +3,7 @@
 ## I'm a programming addicted!
 
 - 🎒 I’m currently learning everything about flutter 🤩 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="360px" width="360px" align="right" alt="Computador iuriCode">
-- 🌌 I'm trying to improve myself by making the best apps 
+- 🌌 I'm trying to improve myself by making the best apps 🌟
 - ✨ 2022 Goal: Earn more money 🤑
 
 ### Connect with me:
