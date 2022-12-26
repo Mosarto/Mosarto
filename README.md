@@ -54,6 +54,7 @@
  - 😴 Sleep Sounds App in [Mosarto/sleepsoundsapp](https://github.com/Mosarto/sleepsoundsapp/)
  - ✏️ Sticky Note App in [Mosarto/stickynotes](https://github.com/Mosarto/stickynotes/)
  - 🪙 Interchain App in [Mosarto/interchain](https://github.com/Mosarto/interchain/)
+ - 🏦 CryptoBoard in [Mosarto/cryptoboard](https://github.com/Mosarto/cryptoboard/)
 
 <br />
 
