@@ -55,6 +55,7 @@
  - ✏️ Sticky Note App in [Mosarto/stickynotes](https://github.com/Mosarto/stickynotes/)
  - 🪙 Interchain App in [Mosarto/interchain](https://github.com/Mosarto/interchain/)
  - 🏦 CryptoBoard in [Mosarto/cryptoboard](https://github.com/Mosarto/cryptoboard/)
+ - 🏮 Webtoon App in [Mosarto/webtoonapp](https://github.com/Mosarto/webtoonapp/)
 
 <br />
 
