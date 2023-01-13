@@ -27,19 +27,6 @@
 <br />
 <br />
 
-### GitHub Stats:
-<div>
-  <a href="https://github.com/Mosarto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mosarto&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosarto&layout=compact&theme=dark"/>
-
-  </a> 
-</div>
-<br />
-
----
-
-
 ## 🎒 My Projects 🎒:
 
  - ☀️ Weather App in [Mosarto/weatherapp](https://github.com/Mosarto/weatherapp/)
