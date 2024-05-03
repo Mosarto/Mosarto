@@ -28,6 +28,20 @@
 
 ## 🎒 My Projects 🎒:
 
+ - ☀️ Weather App in [Mosarto/weatherapp](https://github.com/Mosarto/weatherapp/)
+ - 💼 Omie App in [Mosarto/omie](https://github.com/Mosarto/omie/)
+ - 🌴 Travel App in [Mosarto/travelapp](https://github.com/Mosarto/travelapp/)
+ - 🎶 Music Player App in [Mosarto/musicplayerapp](https://github.com/Mosarto/musicplayerapp/)
+ - 🤑 Payment App in [Mosarto/paymentapp](https://github.com/Mosarto/paymentapp/)
+ - 💲 Mobile Wallet App in [Mosarto/mobilewallet](https://github.com/Mosarto/mobilewallet/)
+ - 🪙 E-Wallet App in [Mosarto/e-wallet](https://github.com/Mosarto/e-wallet/)
+ - 💪 Gyme Web in [Mosarto/gyme](https://github.com/Mosarto/gyme/)
+ - 🍿 Streaming App in [Mosarto/streamingapp](https://github.com/Mosarto/streamingapp/)
+ - 😴 Sleep Sounds App in [Mosarto/sleepsoundsapp](https://github.com/Mosarto/sleepsoundsapp/)
+ - ✏️ Sticky Note App in [Mosarto/stickynotes](https://github.com/Mosarto/stickynotes/)
+ - 🪙 Interchain App in [Mosarto/interchain](https://github.com/Mosarto/interchain/)
+ - 🏦 CryptoBoard in [Mosarto/cryptoboard](https://github.com/Mosarto/cryptoboard/)
+ - 🏮 Webtoon App in [Mosarto/webtoonapp](https://github.com/Mosarto/webtoonapp/)
 
 <br />
 
