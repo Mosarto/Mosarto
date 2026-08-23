@@ -21,9 +21,6 @@
 <a href="https://artomos.com">
   <img src="https://img.shields.io/badge/Portfolio-6A8731?style=for-the-badge&logoColor=white&labelColor=1C2610" alt="Portfolio" />
 </a>
-<a href="https://dither.artomos.com">
-  <img src="https://img.shields.io/badge/Live%20Demo-44601E?style=for-the-badge&logo=webgl&logoColor=white&labelColor=1C2610" alt="Live Demo" />
-</a>
 <a href="https://www.linkedin.com/in/lucas-oliveira-336566197/">
   <img src="https://img.shields.io/badge/LinkedIn-48631F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C2610" alt="LinkedIn" />
 </a>
@@ -56,16 +53,24 @@ I have been writing Flutter since 2021, and the interface studies further down t
 
 **Open To**
 
-<div align="center">
-
-| | |
-|:---|:---|
-| **Full-time roles** | Full stack, mobile or AI product engineering — remote or hybrid |
-| **Contract work** | Product builds, AI features, RAG systems, Flutter applications |
-| **Technical partnerships** | Founding-engineer work and long-term product collaborations |
-| **Open source** | Flutter, FastAPI, WebGL and applied-AI tooling |
-
-</div>
+<table width="100%">
+<tr>
+  <td width="24%"><b>Full-time roles</b></td>
+  <td>Full stack, mobile or AI product engineering — remote or hybrid</td>
+</tr>
+<tr>
+  <td width="24%"><b>Contract work</b></td>
+  <td>Product builds, AI features, RAG systems, Flutter applications</td>
+</tr>
+<tr>
+  <td width="24%"><b>Technical partnerships</b></td>
+  <td>Founding-engineer work and long-term product collaborations</td>
+</tr>
+<tr>
+  <td width="24%"><b>Open source</b></td>
+  <td>Flutter, FastAPI, WebGL and applied-AI tooling</td>
+</tr>
+</table>
 
 ---
 
@@ -107,19 +112,48 @@ I have been writing Flutter since 2021, and the interface studies further down t
 
 Rather than rate myself, this table says where each capability was actually used.
 
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **Retrieval-Augmented Generation** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | Qdrant vector storage across reflections, memories, conversations and profiles, assembled into compact context for each request |
-| **Semantic Memory & Embeddings** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | FastEmbed local multilingual embeddings at 384 dimensions — no embedding round-trip to a third party |
-| **LLM Orchestration & Resilience** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | One async provider layer; use cases separated by temperature, token and timeout policy rather than by model; capped exponential backoff on documented transient failures, no retry on permanent ones |
-| **Structured Output & Validation** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | Strict Pydantic parsing with exactly one corrective retry at lower temperature before the request fails honestly |
-| **Conversational Context Management** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | A 20-turn sliding window bounding context growth, with background session compression and enriched-profile jobs |
-| **AI Product & Quota Design** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | Per-user quotas, premium bypass, server-side rate limits, and a quota-slot refund when the provider is unavailable |
-| **On-Device Gesture Recognition** | ![Working](https://img.shields.io/badge/Working-55702A?style=flat-square&labelColor=0D1117) | MediaPipe `GestureRecognizer` — 21 landmarks, handedness and trained gesture classes driving a real-time render loop |
-
-</div>
+<table width="100%">
+<tr>
+  <th width="26%" align="left">Domain</th>
+  <th width="14%" align="left">Proficiency</th>
+  <th width="60%" align="left">Details</th>
+</tr>
+<tr valign="top">
+  <td><b>Retrieval-Augmented Generation</b></td>
+  <td align="center"><img src="https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117" alt="Shipped" /></td>
+  <td>Qdrant vector storage across reflections, memories, conversations and profiles, assembled into compact context for each request</td>
+</tr>
+<tr valign="top">
+  <td><b>Semantic Memory & Embeddings</b></td>
+  <td align="center"><img src="https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117" alt="Shipped" /></td>
+  <td>FastEmbed local multilingual embeddings at 384 dimensions — no embedding round-trip to a third party</td>
+</tr>
+<tr valign="top">
+  <td><b>LLM Orchestration & Resilience</b></td>
+  <td align="center"><img src="https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117" alt="Shipped" /></td>
+  <td>One async provider layer; use cases separated by temperature, token and timeout policy rather than by model; capped exponential backoff on documented transient failures, no retry on permanent ones</td>
+</tr>
+<tr valign="top">
+  <td><b>Structured Output & Validation</b></td>
+  <td align="center"><img src="https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117" alt="Shipped" /></td>
+  <td>Strict Pydantic parsing with exactly one corrective retry at lower temperature before the request fails honestly</td>
+</tr>
+<tr valign="top">
+  <td><b>Conversational Context Management</b></td>
+  <td align="center"><img src="https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117" alt="Shipped" /></td>
+  <td>A 20-turn sliding window bounding context growth, with background session compression and enriched-profile jobs</td>
+</tr>
+<tr valign="top">
+  <td><b>AI Product & Quota Design</b></td>
+  <td align="center"><img src="https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117" alt="Shipped" /></td>
+  <td>Per-user quotas, premium bypass, server-side rate limits, and a quota-slot refund when the provider is unavailable</td>
+</tr>
+<tr valign="top">
+  <td><b>On-Device Gesture Recognition</b></td>
+  <td align="center"><img src="https://img.shields.io/badge/Working-55702A?style=flat-square&labelColor=0D1117" alt="Working" /></td>
+  <td>MediaPipe <code>GestureRecognizer</code> — 21 landmarks, handedness and trained gesture classes driving a real-time render loop</td>
+</tr>
+</table>
 
 ---
 
@@ -260,22 +294,52 @@ Built mobile and web applications in Flutter and Dart, alongside a sustained pub
 
 ## Engineering Practices
 
-<div align="center">
-
-| Practice | Where it shows up |
-|:---|:---|
-| **Trust boundaries drawn once** | Aether API derives user identity from a verified Firebase ID token; request bodies cannot supply ownership fields |
-| **Quota-safe provider failure** | A `503 llm_unavailable` response refunds the reserved quota slot rather than consuming it |
-| **Local camera processing** | DITHER.CAM keeps every frame on the machine — no upload, no server, no tracking, and no outbound network from the container at runtime |
-| **Secret-handling discipline** | Firebase configuration is placeholder-only, and the Aether README instructs contributors never to commit `.env` files, service accounts, keystores or signing properties |
-| **Strict typing and validation** | DITHER.CAM enables `exactOptionalPropertyTypes` and `noUncheckedIndexedAccess`; Aether API validates every structured LLM response with Pydantic |
-| **Content-minimising logs** | Aether API logs and errors carry no credentials, prompts or user content |
-| **Tests where regressions hurt** | Models, repositories, chat state, freemium synchronisation, trackers, summaries and paywall navigation, via `fake_cloud_firestore` and Mockito |
-| **Accessible alternatives** | Artomos honours `prefers-reduced-motion`; DITHER.CAM gives every gesture a keyboard equivalent |
-| **Container deployment** | Docker Compose, Dokploy and nginx on Alpine, documented in the repositories rather than living on one machine |
-| **Minimal dependency surface** | Four runtime dependencies in DITHER.CAM; locally served fonts and assets in Artomos |
-
-</div>
+<table width="100%">
+<tr>
+  <th width="28%" align="left">Practice</th>
+  <th width="72%" align="left">Where it shows up</th>
+</tr>
+<tr valign="top">
+  <td><b>Trust boundaries drawn once</b></td>
+  <td>Aether API derives user identity from a verified Firebase ID token; request bodies cannot supply ownership fields</td>
+</tr>
+<tr valign="top">
+  <td><b>Quota-safe provider failure</b></td>
+  <td>A <code>503 llm_unavailable</code> response refunds the reserved quota slot rather than consuming it</td>
+</tr>
+<tr valign="top">
+  <td><b>Local camera processing</b></td>
+  <td>DITHER.CAM keeps every frame on the machine — no upload, no server, no tracking, and no outbound network from the container at runtime</td>
+</tr>
+<tr valign="top">
+  <td><b>Secret-handling discipline</b></td>
+  <td>Firebase configuration is placeholder-only, and the Aether README instructs contributors never to commit <code>.env</code> files, service accounts, keystores or signing properties</td>
+</tr>
+<tr valign="top">
+  <td><b>Strict typing and validation</b></td>
+  <td>DITHER.CAM enables <code>exactOptionalPropertyTypes</code> and <code>noUncheckedIndexedAccess</code>; Aether API validates every structured LLM response with Pydantic</td>
+</tr>
+<tr valign="top">
+  <td><b>Content-minimising logs</b></td>
+  <td>Aether API logs and errors carry no credentials, prompts or user content</td>
+</tr>
+<tr valign="top">
+  <td><b>Tests where regressions hurt</b></td>
+  <td>Models, repositories, chat state, freemium synchronisation, trackers, summaries and paywall navigation, via <code>fake_cloud_firestore</code> and Mockito</td>
+</tr>
+<tr valign="top">
+  <td><b>Accessible alternatives</b></td>
+  <td>Artomos honours <code>prefers-reduced-motion</code>; DITHER.CAM gives every gesture a keyboard equivalent</td>
+</tr>
+<tr valign="top">
+  <td><b>Container deployment</b></td>
+  <td>Docker Compose, Dokploy and nginx on Alpine, documented in the repositories rather than living on one machine</td>
+</tr>
+<tr valign="top">
+  <td><b>Minimal dependency surface</b></td>
+  <td>Four runtime dependencies in DITHER.CAM; locally served fonts and assets in Artomos</td>
+</tr>
+</table>
 
 ---
 
@@ -353,17 +417,19 @@ What each project actually runs, not what I have read about.
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mosarto&theme=gruvbox" height="200" alt="Top Languages by Repository" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mosarto&theme=gruvbox" height="200" alt="Most Committed Language" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mosarto&theme=gruvbox" height="200" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mosarto&theme=gruvbox&utcOffset=-3" height="200" alt="Productive Time" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Mosarto&hide_border=true&background=0D1117&stroke=30363D&ring=6A8731&fire=A8C46B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=A8C46B&sideLabels=8B949E&dates=6E7681&excludeDaysLabel=6E7681" alt="GitHub Streak" />
+<table width="100%">
+<tr>
+  <td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mosarto&theme=gruvbox" alt="Top Languages by Repository" /></td>
+  <td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mosarto&theme=gruvbox" alt="Most Committed Language" /></td>
+</tr>
+<tr>
+  <td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mosarto&theme=gruvbox" alt="GitHub Stats" /></td>
+  <td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mosarto&theme=gruvbox&utcOffset=-3" alt="Productive Time" /></td>
+</tr>
+<tr>
+  <td colspan="2"><img width="100%" src="https://streak-stats.demolab.com?user=Mosarto&hide_border=true&background=0D1117&stroke=30363D&ring=6A8731&fire=A8C46B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=A8C46B&sideLabels=8B949E&dates=6E7681&excludeDaysLabel=6E7681" alt="GitHub Streak" /></td>
+</tr>
+</table>
 
 </div>
 
@@ -405,36 +471,39 @@ What each project actually runs, not what I have read about.
 
 ## Current Focus
 
-```yaml
-name: Lucas "Mosart" Oliveira
-role: Full Stack Engineer · Applied AI
-studio: Artomos
-location: Campinas, São Paulo — Brazil
-
-learning:
-  - vector search tuning: hybrid retrieval, reranking and recall measurement
-  - evaluation harnesses for LLM output quality and regression detection
-  - advanced GLSL: shader performance budgets and compute-adjacent techniques
-  - observability for AI services in production
-
-building:
-  - Aether: subscription layer, richer longitudinal insight, offline resilience
-  - Aether API: retrieval quality, background enrichment, cost per conversation
-  - DITHER.CAM: new effects, gesture reliability, mobile performance
-  - Artomos: client platforms, automations and applied-AI products
-
-exploring:
-  - agentic development workflows and multi-agent code review
-  - on-device inference for mobile and browser runtimes
-  - motion systems that stay accessible under prefers-reduced-motion
-  - AI products that respect attention instead of farming it
-
-open_to:
-  - full-time: full stack · mobile · AI product engineering
-  - contract: product builds, AI features, RAG systems, Flutter applications
-  - partnerships: founding-engineer work and long-term collaborations
-  - open source: Flutter, FastAPI, WebGL and applied-AI tooling
-```
+<table width="100%">
+<tr>
+  <th width="33%" align="left">Learning</th>
+  <th width="33%" align="left">Building</th>
+  <th width="34%" align="left">Exploring</th>
+</tr>
+<tr valign="top">
+  <td>
+    <ul>
+      <li>Hybrid retrieval, reranking and recall measurement</li>
+      <li>Evaluation harnesses for LLM output quality</li>
+      <li>Shader performance budgets in GLSL</li>
+      <li>Observability for AI services in production</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><b>Aether</b> — subscription layer and offline resilience</li>
+      <li><b>Aether API</b> — retrieval quality and cost per conversation</li>
+      <li><b>DITHER.CAM</b> — new effects and mobile performance</li>
+      <li><b>Artomos</b> — client platforms and applied-AI products</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Agentic workflows and multi-agent code review</li>
+      <li>On-device inference for mobile and browser runtimes</li>
+      <li>Motion that stays accessible under reduced-motion</li>
+      <li>AI products that respect attention instead of farming it</li>
+    </ul>
+  </td>
+</tr>
+</table>
 
 ---
 
