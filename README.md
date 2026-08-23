@@ -1,44 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=190&section=header&text=Lucas%20%22Mosart%22%20Oliveira&fontSize=40&fontColor=EDE9FE&fontAlignY=34&desc=Full%20Stack%20Engineer%20%C2%B7%20Applied%20AI%20%C2%B7%20Product%20Engineering&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="Lucas Mosart Oliveira" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2610,50:3F5320,100:6A8731&height=190&section=header&text=Lucas%20%22Mosart%22%20Oliveira&fontSize=40&fontColor=EAF0D8&fontAlignY=34&desc=Full%20Stack%20Engineer%20%C2%B7%20Applied%20AI%20%C2%B7%20Product%20Engineering&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="Lucas Mosart Oliveira" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=700&color=A78BFA&center=true&vCenter=true&width=780&height=70&lines=Full+Stack+Engineer+%7C+Applied+AI;Flutter+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+three.js;RAG%2C+semantic+memory+and+LLM+orchestration;From+the+Flutter+client+to+the+GLSL+shader" alt="Typing SVG" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Full%20Stack%20Engineer-7C3AED?style=flat-square&labelColor=0D1117" alt="Full Stack Engineer" />
-<img src="https://img.shields.io/badge/Applied%20AI-6D28D9?style=flat-square&labelColor=0D1117" alt="Applied AI" />
-<img src="https://img.shields.io/badge/Flutter%20Engineer-4F46E5?style=flat-square&labelColor=0D1117" alt="Flutter Engineer" />
-<img src="https://img.shields.io/badge/Founder%20%40%20Artomos-4338CA?style=flat-square&labelColor=0D1117" alt="Founder at Artomos" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=700&color=A8C46B&center=true&vCenter=true&width=780&height=70&lines=Full+Stack+Engineer+%7C+Applied+AI;Flutter+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+three.js;RAG%2C+semantic+memory+and+LLM+orchestration;From+the+Flutter+client+to+the+GLSL+shader" alt="Typing SVG" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Campinas%20%C2%B7%20S%C3%A3o%20Paulo%20%C2%B7%20Brazil-0D1117?style=flat-square&logo=googlemaps&logoColor=A78BFA&labelColor=0D1117" alt="Location" />
-<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid-7C3AED?style=flat-square&labelColor=0D1117" alt="Availability" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Engineer-6A8731?style=flat-square&labelColor=0D1117" alt="Full Stack Engineer" />
+<img src="https://img.shields.io/badge/Applied%20AI-55702A?style=flat-square&labelColor=0D1117" alt="Applied AI" />
+<img src="https://img.shields.io/badge/Flutter%20Engineer-48631F?style=flat-square&labelColor=0D1117" alt="Flutter Engineer" />
+<img src="https://img.shields.io/badge/Founder%20%40%20Artomos-3F5320?style=flat-square&labelColor=0D1117" alt="Founder at Artomos" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Campinas%20%C2%B7%20S%C3%A3o%20Paulo%20%C2%B7%20Brazil-0D1117?style=flat-square&logo=googlemaps&logoColor=A8C46B&labelColor=0D1117" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid-6A8731?style=flat-square&labelColor=0D1117" alt="Availability" />
 
 <br /><br />
 
 <a href="https://artomos.com">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-6A8731?style=for-the-badge&logoColor=white&labelColor=1C2610" alt="Portfolio" />
 </a>
 <a href="https://dither.artomos.com">
-  <img src="https://img.shields.io/badge/Live%20Demo-5B21B6?style=for-the-badge&logo=webgl&logoColor=white&labelColor=1E1B4B" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/Live%20Demo-44601E?style=for-the-badge&logo=webgl&logoColor=white&labelColor=1C2610" alt="Live Demo" />
 </a>
 <a href="https://www.linkedin.com/in/lucas-oliveira-336566197/">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-48631F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C2610" alt="LinkedIn" />
 </a>
 <a href="mailto:lucasmosarto@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-55702A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C2610" alt="Email" />
 </a>
 <a href="https://github.com/Mosarto">
-  <img src="https://img.shields.io/badge/GitHub-4338CA?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-3F5320?style=for-the-badge&logo=github&logoColor=white&labelColor=1C2610" alt="GitHub" />
 </a>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=Mosarto&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Mosarto?label=Followers&style=flat-square&color=7C3AED&labelColor=0D1117&logo=github&logoColor=A78BFA" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Mosarto?label=Total%20Stars&style=flat-square&color=7C3AED&labelColor=0D1117&logo=github&logoColor=A78BFA" alt="Total Stars" />
+<img src="https://komarev.com/ghpvc/?username=Mosarto&label=Profile%20Views&color=6A8731&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Mosarto?label=Followers&style=flat-square&color=6A8731&labelColor=0D1117&logo=github&logoColor=A8C46B" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Mosarto?label=Total%20Stars&style=flat-square&color=6A8731&labelColor=0D1117&logo=github&logoColor=A8C46B" alt="Total Stars" />
 
 </div>
 
@@ -86,7 +86,7 @@ I have been writing Flutter since 2021, and the interface studies further down t
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,firebase&theme=dark" alt="Backend and Databases" />
 
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white&labelColor=0D1117" alt="Qdrant" />
-<img src="https://img.shields.io/badge/FastEmbed-7C3AED?style=flat-square&labelColor=0D1117" alt="FastEmbed" />
+<img src="https://img.shields.io/badge/FastEmbed-6A8731?style=flat-square&labelColor=0D1117" alt="FastEmbed" />
 <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0D1117" alt="Cloud Firestore" />
 <img src="https://img.shields.io/badge/Firebase%20Admin%20SDK-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0D1117" alt="Firebase Admin SDK" />
 
@@ -94,7 +94,7 @@ I have been writing Flutter since 2021, and the interface studies further down t
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,linux,git,github,vscode,androidstudio&theme=dark" alt="Cloud DevOps and Tooling" />
 
-<img src="https://img.shields.io/badge/Dokploy-6366F1?style=flat-square&labelColor=0D1117" alt="Dokploy" />
+<img src="https://img.shields.io/badge/Dokploy-55702A?style=flat-square&labelColor=0D1117" alt="Dokploy" />
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black&labelColor=0D1117" alt="GSAP" />
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white&labelColor=0D1117" alt="MediaPipe" />
 <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white&labelColor=0D1117" alt="GLSL" />
@@ -111,13 +111,13 @@ Rather than rate myself, this table says where each capability was actually used
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Retrieval-Augmented Generation** | ![Shipped](https://img.shields.io/badge/Shipped-7C3AED?style=flat-square&labelColor=0D1117) | Qdrant vector storage across reflections, memories, conversations and profiles, assembled into compact context for each request |
-| **Semantic Memory & Embeddings** | ![Shipped](https://img.shields.io/badge/Shipped-7C3AED?style=flat-square&labelColor=0D1117) | FastEmbed local multilingual embeddings at 384 dimensions — no embedding round-trip to a third party |
-| **LLM Orchestration & Resilience** | ![Shipped](https://img.shields.io/badge/Shipped-7C3AED?style=flat-square&labelColor=0D1117) | One async provider layer; use cases separated by temperature, token and timeout policy rather than by model; capped exponential backoff on documented transient failures, no retry on permanent ones |
-| **Structured Output & Validation** | ![Shipped](https://img.shields.io/badge/Shipped-7C3AED?style=flat-square&labelColor=0D1117) | Strict Pydantic parsing with exactly one corrective retry at lower temperature before the request fails honestly |
-| **Conversational Context Management** | ![Shipped](https://img.shields.io/badge/Shipped-7C3AED?style=flat-square&labelColor=0D1117) | A 20-turn sliding window bounding context growth, with background session compression and enriched-profile jobs |
-| **AI Product & Quota Design** | ![Shipped](https://img.shields.io/badge/Shipped-7C3AED?style=flat-square&labelColor=0D1117) | Per-user quotas, premium bypass, server-side rate limits, and a quota-slot refund when the provider is unavailable |
-| **On-Device Gesture Recognition** | ![Working](https://img.shields.io/badge/Working-6D28D9?style=flat-square&labelColor=0D1117) | MediaPipe `GestureRecognizer` — 21 landmarks, handedness and trained gesture classes driving a real-time render loop |
+| **Retrieval-Augmented Generation** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | Qdrant vector storage across reflections, memories, conversations and profiles, assembled into compact context for each request |
+| **Semantic Memory & Embeddings** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | FastEmbed local multilingual embeddings at 384 dimensions — no embedding round-trip to a third party |
+| **LLM Orchestration & Resilience** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | One async provider layer; use cases separated by temperature, token and timeout policy rather than by model; capped exponential backoff on documented transient failures, no retry on permanent ones |
+| **Structured Output & Validation** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | Strict Pydantic parsing with exactly one corrective retry at lower temperature before the request fails honestly |
+| **Conversational Context Management** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | A 20-turn sliding window bounding context growth, with background session compression and enriched-profile jobs |
+| **AI Product & Quota Design** | ![Shipped](https://img.shields.io/badge/Shipped-6A8731?style=flat-square&labelColor=0D1117) | Per-user quotas, premium bypass, server-side rate limits, and a quota-slot refund when the provider is unavailable |
+| **On-Device Gesture Recognition** | ![Working](https://img.shields.io/badge/Working-55702A?style=flat-square&labelColor=0D1117) | MediaPipe `GestureRecognizer` — 21 landmarks, handedness and trained gesture classes driving a real-time render loop |
 
 </div>
 
@@ -231,8 +231,8 @@ These exist to practise translating a visual design into structured, responsive,
 
 ### Founder & Full Stack Engineer · Artomos
 
-![Present](https://img.shields.io/badge/Present-7C3AED?style=flat-square&labelColor=0D1117)
-![Campinas · Remote](https://img.shields.io/badge/Campinas%20%C2%B7%20Remote-4F46E5?style=flat-square&labelColor=0D1117)
+![Present](https://img.shields.io/badge/Present-6A8731?style=flat-square&labelColor=0D1117)
+![Campinas · Remote](https://img.shields.io/badge/Campinas%20%C2%B7%20Remote-48631F?style=flat-square&labelColor=0D1117)
 
 Founded Artomos as an independent software studio covering custom software, web platforms, mobile applications, cloud architecture, automation and applied-AI products — and built its public platform alongside Aether and DITHER.CAM. My work spans the full lifecycle: art direction, architecture, implementation and deployment.
 
@@ -245,8 +245,8 @@ Founded Artomos as an independent software studio covering custom software, web 
 
 ### Flutter & Mobile/Web Developer · Independent
 
-![2021 — Present](https://img.shields.io/badge/2021%20%E2%80%94%20Present-6D28D9?style=flat-square&labelColor=0D1117)
-![Brazil](https://img.shields.io/badge/Brazil-4338CA?style=flat-square&labelColor=0D1117)
+![2021 — Present](https://img.shields.io/badge/2021%20%E2%80%94%20Present-55702A?style=flat-square&labelColor=0D1117)
+![Brazil](https://img.shields.io/badge/Brazil-3F5320?style=flat-square&labelColor=0D1117)
 
 Built mobile and web applications in Flutter and Dart, alongside a sustained public body of interface engineering work — translating design references into structured, responsive, animated implementations.
 
@@ -291,14 +291,14 @@ What each project actually runs, not what I have read about.
 <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0D1117" alt="Firebase Auth" />
 <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0D1117" alt="Cloud Firestore" />
 <img src="https://img.shields.io/badge/Cloud%20Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0D1117" alt="Cloud Messaging" />
-<img src="https://img.shields.io/badge/Mockito%20%2B%20fake__cloud__firestore-7C3AED?style=flat-square&labelColor=0D1117" alt="Test stack" />
+<img src="https://img.shields.io/badge/Mockito%20%2B%20fake__cloud__firestore-6A8731?style=flat-square&labelColor=0D1117" alt="Test stack" />
 
 **Aether API** · RAG backend
 
 <img src="https://img.shields.io/badge/Python%203.12-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python 3.12" />
 <img src="https://img.shields.io/badge/FastAPI%20%2B%20Uvicorn-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white&labelColor=0D1117" alt="Qdrant" />
-<img src="https://img.shields.io/badge/FastEmbed%20384d-7C3AED?style=flat-square&labelColor=0D1117" alt="FastEmbed 384 dimensions" />
+<img src="https://img.shields.io/badge/FastEmbed%20384d-6A8731?style=flat-square&labelColor=0D1117" alt="FastEmbed 384 dimensions" />
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white&labelColor=0D1117" alt="Pydantic" />
 <img src="https://img.shields.io/badge/Docker%20Compose%20%2B%20Dokploy-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117" alt="Docker Compose and Dokploy" />
 
@@ -316,7 +316,7 @@ What each project actually runs, not what I have read about.
 <img src="https://img.shields.io/badge/React%2019-149ECA?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" alt="React 19" />
 <img src="https://img.shields.io/badge/Next.js%2016%20via%20Vinext-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" alt="Next.js 16 via Vinext" />
 <img src="https://img.shields.io/badge/GSAP%20%2B%20ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=black&labelColor=0D1117" alt="GSAP and ScrollTrigger" />
-<img src="https://img.shields.io/badge/Lenis-7C3AED?style=flat-square&labelColor=0D1117" alt="Lenis" />
+<img src="https://img.shields.io/badge/Lenis-6A8731?style=flat-square&labelColor=0D1117" alt="Lenis" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS%204-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" alt="Tailwind CSS 4" />
 <img src="https://img.shields.io/badge/Node.js%2022-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0D1117" alt="Node.js 22" />
 <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0D1117" alt="Cloudflare Workers" />
@@ -330,15 +330,15 @@ What each project actually runs, not what I have read about.
 <div align="center">
 
 <a href="https://artomos.com">
-  <img src="https://img.shields.io/badge/artomos.com-Studio%20Platform-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B" alt="artomos.com" />
+  <img src="https://img.shields.io/badge/artomos.com-Studio%20Platform-6A8731?style=for-the-badge&logoColor=white&labelColor=1C2610" alt="artomos.com" />
 </a>
 
 <a href="https://dither.artomos.com">
-  <img src="https://img.shields.io/badge/dither.artomos.com-Real--Time%20WebGL-4F46E5?style=for-the-badge&logo=webgl&logoColor=white&labelColor=1E1B4B" alt="dither.artomos.com" />
+  <img src="https://img.shields.io/badge/dither.artomos.com-Real--Time%20WebGL-48631F?style=for-the-badge&logo=webgl&logoColor=white&labelColor=1C2610" alt="dither.artomos.com" />
 </a>
 
 <a href="https://mosarto.github.io/portifoliopage/#/">
-  <img src="https://img.shields.io/badge/Flutter%20Portfolio-Web%20Build-6D28D9?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1E1B4B" alt="Flutter Portfolio" />
+  <img src="https://img.shields.io/badge/Flutter%20Portfolio-Web%20Build-55702A?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1C2610" alt="Flutter Portfolio" />
 </a>
 
 </div>
@@ -349,21 +349,21 @@ What each project actually runs, not what I have read about.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mosarto&theme=aura_dark" width="100%" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mosarto&theme=gruvbox" width="100%" alt="Profile Details" />
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mosarto&theme=aura_dark" height="200" alt="Top Languages by Repository" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mosarto&theme=aura_dark" height="200" alt="Most Committed Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mosarto&theme=gruvbox" height="200" alt="Top Languages by Repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mosarto&theme=gruvbox" height="200" alt="Most Committed Language" />
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mosarto&theme=aura_dark" height="200" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mosarto&theme=aura_dark&utcOffset=-3" height="200" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mosarto&theme=gruvbox" height="200" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mosarto&theme=gruvbox&utcOffset=-3" height="200" alt="Productive Time" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Mosarto&hide_border=true&background=0D1117&stroke=30363D&ring=7C3AED&fire=A78BFA&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=A78BFA&sideLabels=8B949E&dates=6E7681&excludeDaysLabel=6E7681" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Mosarto&hide_border=true&background=0D1117&stroke=30363D&ring=6A8731&fire=A8C46B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=A8C46B&sideLabels=8B949E&dates=6E7681&excludeDaysLabel=6E7681" alt="GitHub Streak" />
 
 </div>
 
@@ -373,7 +373,7 @@ What each project actually runs, not what I have read about.
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Mosarto&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=Mosarto&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -383,7 +383,7 @@ What each project actually runs, not what I have read about.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mosarto&custom_title=Contribution%20Graph&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=E9D5FF&area=true&area_color=4C1D95&title_color=A78BFA&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mosarto&custom_title=Contribution%20Graph&bg_color=0D1117&color=C3D89A&line=6A8731&point=E9E38C&area=true&area_color=3F5320&title_color=A8C46B&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -443,16 +443,16 @@ open_to:
 <div align="center">
 
 <a href="mailto:lucasmosarto@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C2610" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/lucas-oliveira-336566197/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C2610" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Mosarto">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1C2610" alt="GitHub" />
 </a>
 <a href="https://artomos.com">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-6A8731?style=for-the-badge&logoColor=white&labelColor=1C2610" alt="Portfolio" />
 </a>
 
 </div>
@@ -463,6 +463,6 @@ open_to:
 
 <i>The happy path is the easy half — the engineering is in what the system does when everything else goes wrong.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:1E1B4B&height=140&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A8731,50:3F5320,100:1C2610&height=140&section=footer" width="100%" alt="" />
 
 </div>
